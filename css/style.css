@@ -175,15 +175,66 @@ header a:hover {
 	background: #fc625f;
 }
 
+.third-block {
+	margin: 0 auto;
+}
+
+.container-color {
+	width: 1200px;
+	margin: 70px auto 70px auto;
+	text-align: center;
+	overflow: auto;
+
+}
 
 
+#cbox1 {
+	float: left;
+	background-color: #f67c78 ;	
+	width: 400px;
+	padding: 80px 40px;
+}
+
+#cbox2 {
+	float: left;
+	background-color: #79c4ca;
+	width: 400px;
+	padding: 80px 40px;
+}
+
+#cbox3 {
+	float: left;
+	background-color: #a8c269 ;
+	width: 400px;
+	padding: 80px 40px;
+}
+
+.container-color  {
+	color: #fff;
+	line-height: 2;
+}
+
+.container-color a {
+	text-decoration: none;
+	display: inline-block;
+	font-size: 19px;
+	padding: 10px 25px;
+	color: #fff;
+	margin-top: 20px;
+}
 
 
+#cbox1 a {
+	background: #E85D4B;
+}
 
+#cbox2 a {
+	background: #57AEAD;
+}
 
-
-
-
+#cbox3 a {
+	background: #809944 ;
+}
 
 
 
