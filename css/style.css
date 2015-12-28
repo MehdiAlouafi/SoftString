@@ -237,13 +237,32 @@ header a:hover {
 }
 
 
+.copyright {
+	background: #F3F3F3;
+}
 
+.container {
+	width: 1200px;
+	margin: 0 auto;
+	padding: 70px 0 70px 0;
+}
 
+.container h1 {
+	font-size: 35px;
+}
 
+.container p {
+	color: rgba(0,0,0,.6);
+	line-height: 2.5;
+}
 
+.container a {
+	color: #f67c78;
+}
 
-
-
+.container a:hover {
+	color: #fc625f;
+}
 
 
 
